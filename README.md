@@ -18,7 +18,3 @@ Live Features:
 📱 Fully responsive design
 
 🚀 Single-service Railway deployment
-
-Tech Stack
-
-Color-coded status indicators

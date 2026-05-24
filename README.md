@@ -4,7 +4,9 @@ A modern, professional full-stack team task management application with polished
 Live Features:
 
 ✨ Modern glassmorphism UI with smooth animations
+
 🌙 Light/Dark theme with persistent storage
+
 👁️ Password visibility toggle on auth forms
 🔐 JWT-based authentication with role-based access
 📊 Real-time dashboard with task analytics
